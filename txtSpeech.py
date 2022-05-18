@@ -2,7 +2,7 @@ from gtts import gTTS
 import os
 
 
-print()
+
 text = input("Scrivi quello che vuoi far dire al programma: ")
 language = input('Scegli lingua: ')
 
